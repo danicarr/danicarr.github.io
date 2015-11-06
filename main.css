@@ -1,0 +1,23 @@
+body {
+	background-color: white !important;
+}
+
+.text{
+	font-family: 'Lobster Two', sans-serif;
+}
+
+#name-header{
+	font-size: 5em;
+	font-family: 'Lobster Two', cursive;
+}
+#about{
+	font-size: 2em;
+}
+
+#info{
+	font-size: 4em;
+}
+
+
+
+
